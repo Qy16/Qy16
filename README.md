@@ -1,4 +1,4 @@
- System.out.print("re-start");
+⁸ System.out.print("re-start");
 Snapshot-Content-Location: https://dev.java/
 Subject:
 Date: Sat, 25 Jun 2022 14:29:23 -0000
@@ -10,7 +10,8 @@ boundary = "----MultipartBoundary--8JNwebTq2sXoVAoE21B3F2xm8nt481mKqRZDxz2CDB---
 
 ------MultipartBoundary--8JNwebTq2sXoVAoE21B3F2xm8nt481mKqRZDxz2CDB----
 Content-Type: text/html
-Content-ID: < frame-AB08D55CA677BBA77576DC0CF8732DE4@mhtml.blink >
+Content-ID: < frame
+AB08D55CA677BBA77576DC0CF8732DE4@mhtml.blink >
 Content-Transfer-Encoding: binary
 Content-Location: https://dev.java/
 
